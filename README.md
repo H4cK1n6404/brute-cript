@@ -1,22 +1,12 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
+## Installing
 ```
-$ cd ../lorem
+$ pkg install git
+$ pkg install python3
+$ python -m pip install uncompyle6
 $ npm install
 $ npm start
 ```
+## Ask Me On
+* [YouTube](#https://www.youtube.com/channel/UCopf7XF5D5hVyx2TePHl-pw)
+* [Facebook](#https://www.facebook.com/fatahul.ulum.1)
+* [Instagram](#https://www.instagram.com/aditiastrom)
